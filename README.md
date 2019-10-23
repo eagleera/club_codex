@@ -1,29 +1,6 @@
-# bootstrap_slideshow
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# CLUB_C0DEX
+## Un repositorio con las presentaciones de los expositores
+------
+### Presentación 22 de Octubre 2019 | Bootstrap
+Reto de la presentación:
+[Link del reto](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)
